@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-24T15:07:27 IST" name="Default suite" finished-at="2026-02-24T15:08:41 IST" duration-ms="74009">
+    <groups>
+    </groups>
+    <test started-at="2026-02-24T15:07:27 IST" name="Default test" finished-at="2026-02-24T15:08:41 IST" duration-ms="74009">
+      <class name="deepika.swaglabs.logintest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:deepika.swaglabs.logintest@6989da5e]" started-at="2026-02-24T15:07:27 IST" name="setup" finished-at="2026-02-24T15:07:33 IST" duration-ms="6330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:1, instance:deepika.swaglabs.logintest@6989da5e]" started-at="2026-02-24T15:07:33 IST" name="login" finished-at="2026-02-24T15:07:34 IST" duration-ms="427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="addcart()[pri:2, instance:deepika.swaglabs.logintest@6989da5e]" started-at="2026-02-24T15:07:34 IST" name="addcart" finished-at="2026-02-24T15:07:37 IST" duration-ms="3128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcart -->
+        <test-method signature="addtocartbutton()[pri:3, instance:deepika.swaglabs.logintest@6989da5e]" started-at="2026-02-24T15:07:37 IST" name="addtocartbutton" finished-at="2026-02-24T15:07:40 IST" duration-ms="3176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocartbutton -->
+        <test-method signature="checkoutpage()[pri:4, instance:deepika.swaglabs.logintest@6989da5e]" started-at="2026-02-24T15:07:40 IST" name="checkoutpage" finished-at="2026-02-24T15:07:43 IST" duration-ms="3187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutpage -->
+        <test-method signature="checkoutdetails()[pri:5, instance:deepika.swaglabs.logintest@6989da5e]" started-at="2026-02-24T15:07:43 IST" name="checkoutdetails" finished-at="2026-02-24T15:07:51 IST" duration-ms="7292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutdetails -->
+        <test-method signature="finishpage()[pri:6, instance:deepika.swaglabs.logintest@6989da5e]" started-at="2026-02-24T15:07:51 IST" name="finishpage" finished-at="2026-02-24T15:07:54 IST" duration-ms="3178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishpage -->
+        <test-method signature="orderconfirmation()[pri:7, instance:deepika.swaglabs.logintest@6989da5e]" started-at="2026-02-24T15:07:54 IST" name="orderconfirmation" finished-at="2026-02-24T15:07:57 IST" duration-ms="3104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderconfirmation -->
+        <test-method signature="backtohome()[pri:8, instance:deepika.swaglabs.logintest@6989da5e]" started-at="2026-02-24T15:07:57 IST" name="backtohome" finished-at="2026-02-24T15:08:00 IST" duration-ms="3169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backtohome -->
+        <test-method signature="addproducts()[pri:9, instance:deepika.swaglabs.logintest@6989da5e]" started-at="2026-02-24T15:08:00 IST" name="addproducts" finished-at="2026-02-24T15:08:05 IST" duration-ms="5367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addproducts -->
+        <test-method signature="removeproducts()[pri:10, instance:deepika.swaglabs.logintest@6989da5e]" started-at="2026-02-24T15:08:05 IST" name="removeproducts" finished-at="2026-02-24T15:08:11 IST" duration-ms="5243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeproducts -->
+        <test-method signature="hamburgermenu()[pri:11, instance:deepika.swaglabs.logintest@6989da5e]" started-at="2026-02-24T15:08:11 IST" name="hamburgermenu" finished-at="2026-02-24T15:08:14 IST" duration-ms="3120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hamburgermenu -->
+        <test-method signature="aboutpage()[pri:12, instance:deepika.swaglabs.logintest@6989da5e]" started-at="2026-02-24T15:08:14 IST" name="aboutpage" finished-at="2026-02-24T15:08:25 IST" duration-ms="10868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aboutpage -->
+        <test-method signature="prodsorting()[pri:13, instance:deepika.swaglabs.logintest@6989da5e]" started-at="2026-02-24T15:08:25 IST" name="prodsorting" finished-at="2026-02-24T15:08:37 IST" duration-ms="12776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prodsorting -->
+        <test-method signature="logoutthepage()[pri:14, instance:deepika.swaglabs.logintest@6989da5e]" started-at="2026-02-24T15:08:37 IST" name="logoutthepage" finished-at="2026-02-24T15:08:40 IST" duration-ms="2177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutthepage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:deepika.swaglabs.logintest@6989da5e]" started-at="2026-02-24T15:08:40 IST" name="tearDown" finished-at="2026-02-24T15:08:41 IST" duration-ms="1270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- deepika.swaglabs.logintest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

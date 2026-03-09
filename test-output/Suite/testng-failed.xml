@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="deepika.swaglabs.logintest">
+        <methods>
+          <include name="aboutpage"/>
+          <include name="backtohome"/>
+          <include name="tearDown"/>
+          <include name="prodsorting"/>
+          <include name="addproducts"/>
+          <include name="orderconfirmation"/>
+          <include name="setup"/>
+          <include name="removeproducts"/>
+          <include name="checkoutpage"/>
+          <include name="finishpage"/>
+          <include name="hamburgermenu"/>
+          <include name="logoutthepage"/>
+          <include name="checkoutdetails"/>
+        </methods>
+      </class> <!-- deepika.swaglabs.logintest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
