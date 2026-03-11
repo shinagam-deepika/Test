@@ -22,7 +22,7 @@ public class Basetest {
     	
 
         prop = new Properties();
-
+//this is test
         FileInputStream fis = new FileInputStream(
             System.getProperty("user.dir") +
             "/src/main/java/resources/config.properties"
